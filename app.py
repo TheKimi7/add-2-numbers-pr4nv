@@ -1,6 +1,3 @@
-from tkinter import Y
-from numpy import float_
-import streamlit as st
 import streamlit as st
 
 st.title("Welcome to my Streamlit Application!")
