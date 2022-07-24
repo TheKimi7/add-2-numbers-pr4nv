@@ -1,6 +1,7 @@
 from tkinter import Y
 from numpy import float_
 import streamlit as st
+import streamlit as st
 
 st.title("Welcome to my Streamlit Application!")
 st.subheader("This is an application that adds the given 2 numbers and displays the sum. I have done this as a part of my Graded Assignment 8")
